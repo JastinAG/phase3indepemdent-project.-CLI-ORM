@@ -1,9 +1,6 @@
-# phase3indepemdent-project.-CLI-ORM
-Sure, here's a sample README.md documentation for the project:
 
 ---
-
-# Python ORM CLI Application
+#PHASE 3 Independent project. CLI and ORM Application in Python
 
 This is a Python CLI application built using SQLAlchemy ORM. It allows users to interact with a SQLite database through a command-line interface (CLI).
 
