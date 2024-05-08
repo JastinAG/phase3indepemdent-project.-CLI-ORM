@@ -54,7 +54,6 @@ This is a Python CLI application built using SQLAlchemy ORM. It allows users to 
 - **cli.py:** Contains the CLI commands and entry point of the application.
 - **database.py:** Defines the ORM models and database-related functions.
 - **models.py:** Contains the ORM model definitions.
-- **requirements.txt:** Lists the project dependencies.
 
 
 ## License
